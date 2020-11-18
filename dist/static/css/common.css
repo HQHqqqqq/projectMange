@@ -1,0 +1,442 @@
+body {
+    background-color: #ecf0f5;
+}
+
+.main-sidebar {
+    position: fixed!important
+}
+
+.main-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.main-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.content-wrapper {
+    /* overflow: auto; */
+    padding-top: 50px;
+}
+
+.wrapper {
+    background: #ecf0f5!important;
+}
+
+.main-header .navbar {
+    margin-left: 0px!important;
+}
+
+.user-panel>.info {
+    top: 22px;
+}
+
+.bg-yellow {
+    color: #000!important;
+}
+
+.form-control {
+    color: #000;
+}
+.logoimg{
+	float: left;
+	padding: 6px;
+}
+.container{
+	margin-left: 0px!important;
+}
+
+/* 提交按钮 */
+
+.submitBtn {
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 28px;
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 0 6px;
+}
+
+.Onemobth {
+    margin-left: 5px;
+}
+
+.fc-event .fc-content {
+    z-index: 1;
+}
+
+.todecol {
+    padding: 0 5px;
+}
+
+
+/* 弹框model */
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 600px;
+        /*margin-left: -300px!important;
+        margin-top: -320px!important;*/
+    }
+}
+
+.modal-content {
+    /* height: 712px; */
+    overflow: auto;
+}
+
+.modal-dialog {
+    position: absolute;
+    width: 600px;
+    /* margin: 10px; */
+    height: 640px;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -320px;
+}
+
+.agin {
+    width: 30%;
+    float: left;
+    position: relative;
+}
+
+.agin input {
+    position: absolute;
+    top: 0;
+    left: 5px;
+}
+
+.myWorkModel {
+    width: 600px;
+    height: 542px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -271px;
+    margin-left: -300px;
+}
+
+.checkModel {
+    width: 600px;
+    height: 672px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -336px;
+    margin-left: -300px;
+}
+
+.maxModel {
+    width: 600px;
+    height: 542px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -271px;
+    margin-left: -300px;
+}
+
+.maxMyModel {
+    width: 600px;
+    height: 602px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -301px;
+    margin-left: -300px;
+}
+
+
+/* 日历公共弹框颜色 */
+
+.PublicColor {
+    background-color: #73c0eca1;
+    border-color: #73c0eca1;
+    color: black;
+    height: 30px;
+    font-size: 1.1em;
+    line-height: 2.1;
+}
+
+.PublicColor1 {
+    background-color: #FFD651;
+    border-color: #FFD651;
+    color: black;
+    height: 30px;
+    font-size: 1.1em;
+    line-height: 2.1;
+}
+
+#showInfo {
+    color: black!important;
+    background-color: #9EEA6A!important;
+}
+
+
+/* 质询评价弹框 */
+
+.addright {
+    background: #222d32;
+    color: #b8c7ce;
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top: 10px;
+    right: -300px;
+    flex-grow: 2;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.titleTop label {
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.closex {
+    height: 30px;
+    line-height: 35px;
+    font-size: 22px;
+    float: right;
+    margin-right: 20px;
+    ;
+}
+
+li {
+    list-style: none
+}
+
+.contro {
+    padding-top: 20px;
+    padding-left: 10px;
+    ;
+    height: 150%;
+    overflow: auto;
+}
+
+.contro li {
+    width: 100%;
+    margin: auto;
+    line-height: 30px;
+    padding: 6px 5px;
+}
+
+@media (max-width: 767px) {
+    .control-sidebar {
+        padding-top: 40px;
+    }
+    .addright {
+        width: 230px;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:375px) {
+    .control-sidebar {
+        padding-top: 40px;
+    }
+    .addright {
+        width: 200px;
+    }
+}
+
+.chooseRadioDiv input.chooseRadio {
+    margin-left: 13%!important;
+}
+
+@media (max-width: 768px) {
+    .myWorkModel {
+        width: 90%;
+        height: 90%;
+        margin-left: -45%;
+    }
+    .agin {
+        width: 27%;
+    }
+    .checkModel {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 52%;
+        left: 50%;
+        margin-left: -45%;
+    }
+    .maxModel {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin-left: -45%;
+        top: 46%;
+    }
+    .maxMyModel {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin-left: -45%;
+        top: 50%;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:375px) {
+    .myWorkModel {
+        width: 90%;
+        height: 90%;
+        margin-left: -45%;
+        margin-top: -70%;
+    }
+    .agin {
+        width: 31%;
+    }
+    .checkModel {
+        margin-top: -70%;
+    }
+    .maxModel {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin-left: -45%;
+        top: 46%;
+    }
+    .ConHove tr {
+        border-bottom: 1px solid #b8c7ce;
+    }
+    .ConHove tr th,
+    .ConHove tr td {
+        text-align: center;
+    }
+}
+
+
+/* 3.13 */
+
+
+/* 
+.user-panel {
+    padding: 8px 0 !important;
+    width: 20%!important;
+    float: right;
+}
+
+.user-panel>.image>img {
+    width: 82%;
+    max-width: 40px;
+    height: auto;
+}
+
+.userDropdown>.info {
+    top: 0px!important;
+}
+
+.user-panel>.info {
+    top: 0px!important;
+}
+
+.user-panel>.info {
+    padding: 5px 8px 5px 10px!important;
+    line-height: 0;
+    position: static!important;
+    left: 0px!important;
+} */
+
+.main-header {
+    min-height: 50px;
+}
+
+.navbar {
+    height: 50px;
+}
+
+.navbar-custom-menu {
+    width: 30%;
+    padding: 0 10px;
+}
+
+.nav>li>a>img {
+    width: 36px;
+    height: 36px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .navbar-nav>li>a {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    .navbar-custom-menu {
+        width: 34%;
+    }
+}
+
+@media screen and (min-width:310px) and (max-width:766px) {
+    .navbar-custom-menu {
+        width: 34%;
+    }
+}
+
+.sty {
+    padding: 12px 0 !important;
+    font-size: 18px;
+}
+
+.open>a:focus {
+    background: rgba(0, 0, 0, 0.1)
+}
+
+@media (max-width: 991px) {
+    .navbar-custom-menu .navbar-nav>li>a {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+}
+
+
+/* demo.js为修改导航配色转译中文 */
+
+.tab-content>.active>div>:nth-child(3),
+.tab-content>.active>div>:nth-child(2),
+.tab-content>.active>div>:nth-child(5),
+.tab-content>.active>div>:nth-child(7) {
+    display: none!important;
+}
+
+#staffNameTop {
+    padding-left: 5px;
+}
+
+.instrument {
+    padding: 0 5px;
+}
+
+.quit {
+    font-size: 14px;
+    color: #fff;
+    /* margin-top: 14px; */
+    float: right;
+    padding-right: 10px;
+    line-height: 50px;
+}
+
+.quit span {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.deleteCookie {
+    height: auto!important;
+}
+
+.deleteCookie .modal-header h4 {
+    text-align: center;
+    height: 90px;
+    line-height: 90px;
+    font-size: 18px;
+}

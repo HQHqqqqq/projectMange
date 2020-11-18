@@ -1,0 +1,79 @@
+{
+  "list": [
+    {
+      "type": "grid",
+      "name": "栅格布局",
+      "icon": "icon-grid-",
+      "columns": [
+        {
+          "span": 12,
+          "list": [
+            {
+              "type": "input",
+              "name": "单行文本",
+              "icon": "icon-input",
+              "isShow": "true",
+              "options": {
+                "width": "100%",
+                "defaultValue": "",
+                "required": false,
+                "dataType": "string",
+                "pattern": "",
+                "placeholder": "",
+                "disabled": false,
+                "url": "",
+                "remoteFunc": "func_1555305693000_86491"
+              },
+              "key": "1555305693000_86491",
+              "model": "input_1555305693000_86491",
+              "rules": [
+                {
+                  "type": "string",
+                  "message": "单行文本格式不正确"
+                }
+              ],
+              "url": "11111111111111"
+            }
+          ]
+        },
+        {
+          "span": 12,
+          "list": [
+            {
+              "type": "textarea",
+              "name": "多行文本",
+              "icon": "icon-diy-com-textarea",
+              "isShow": "true",
+              "options": {
+                "width": "100%",
+                "defaultValue": "",
+                "pattern": "",
+                "placeholder": "",
+                "url": "",
+                "remoteFunc": "func_1555305695000_76657"
+              },
+              "key": "1555305695000_76657",
+              "model": "textarea_1555305695000_76657",
+              "rules": [],
+              "url": "22222222222"
+            }
+          ]
+        }
+      ],
+      "options": {
+        "gutter": 0,
+        "justify": "start",
+        "align": "top",
+        "remoteFunc": "func_1555305692000_57234"
+      },
+      "key": "1555305692000_57234",
+      "model": "grid_1555305692000_57234",
+      "rules": []
+    }
+  ],
+  "config": {
+    "labelWidth": 100,
+    "labelPosition": "top",
+    "size": "small"
+  }
+}

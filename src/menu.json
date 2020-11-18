@@ -1,0 +1,1124 @@
+{
+ "element":  [
+    {
+   "children":    [
+        {
+     "children": [],
+     "code": "SHUJCJ_SHUJRK",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "CBAEB84528564CF0B2E428E78E92BEF5",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "FC3EA0FCD20247809C2CD7688D01764F"
+     }],
+     "icon": "sidebar-zysprk",
+     "id": "FC3EA0FCD20247809C2CD7688D01764F",
+     "leaf": true,
+     "name": "数据入库",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/dataApproval/dataApproval.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_LUWDC",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "6776874E74FC44F5845EA5E0FE5F0046",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "045539E3E827495AAF7D75FFBE58FCA3"
+     }],
+     "icon": "",
+     "id": "045539E3E827495AAF7D75FFBE58FCA3",
+     "leaf": true,
+     "name": "路网导出",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/roadNetwork/roadNetwork.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_SJGS",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "FAA5518567C046FC839FA0712A23E96B",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "E5CB4EE9987B480F994CC355F697C645"
+     }],
+     "icon": "sidebar-sjgs",
+     "id": "E5CB4EE9987B480F994CC355F697C645",
+     "leaf": true,
+     "name": "数据公示",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/dataPublication/dataPublication.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_SJFH",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "E96404FB0633499EBBF235F3802A573E",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "F4C8CC415B53428CAE03B211B3E62A20"
+     }],
+     "icon": "sidebar-sjfh",
+     "id": "F4C8CC415B53428CAE03B211B3E62A20",
+     "leaf": true,
+     "name": "数据复核",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/dataCheck/dataCheck.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_SJSH",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "6579A57A45E94B919E8BD013EFA25B06",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "2085536687B84DA9B7DD127E5971B349"
+     }],
+     "icon": "sidebar-sjsh",
+     "id": "2085536687B84DA9B7DD127E5971B349",
+     "leaf": true,
+     "name": "数据审核",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/dataReview/dataReview.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_SJGL",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "CAAB97D27AED4206AD3F4733248948B3",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "E3AC183EFA2F4BB781C59FC5A72B08AD"
+     }],
+     "icon": "sidebar-sjwjgl",
+     "id": "E3AC183EFA2F4BB781C59FC5A72B08AD",
+     "leaf": true,
+     "name": "数据管理",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/dataManage/dataMenu.js"
+    },
+        {
+     "children": [],
+     "code": "SHUJCJ_DITZS",
+     "find": true,
+     "functions": [     {
+      "children": [],
+      "code": "LOAD_DEFAULT",
+      "find": false,
+      "icon": "",
+      "id": "4B333ED1987F4F9DBE22E01FF0A7A109",
+      "leaf": false,
+      "name": "默认资源模板",
+      "pid": "1D4609C6CD214A28BF6A9B85DC8D98CA"
+     }],
+     "icon": "sidebar-dtzs",
+     "id": "1D4609C6CD214A28BF6A9B85DC8D98CA",
+     "leaf": true,
+     "name": "地图展示",
+     "pid": "B2686EF749D446869F4715686AD7CC4B",
+     "url": "/js/mapView/mapView.js"
+    }
+   ],
+   "code": "SYS_SHUJCJ",
+   "find": true,
+   "icon": "",
+   "id": "B2686EF749D446869F4715686AD7CC4B",
+   "leaf": false,
+   "name": "数据采集管理子系统",
+   "pid": "0"
+  },
+    {
+   "children":    [
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "T_BASE_MENU",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "74E18A46CCB2436CBA5782F829B5D368",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "76862A34DD89467DBA5750F318BBD1FD"
+       }],
+       "icon": "",
+       "id": "76862A34DD89467DBA5750F318BBD1FD",
+       "leaf": true,
+       "name": "菜单模块",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_MENU"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_DICTIONARY",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "4715E391654B45838F787C4D53535915",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "8BFCE3B42EFD4B348B39EC67674CA55D"
+       }],
+       "icon": "",
+       "id": "8BFCE3B42EFD4B348B39EC67674CA55D",
+       "leaf": true,
+       "name": "字典配置",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_DICTIONARY"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_RESOURCE",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "89A14399E1BF4AC99267F85DBF85387A",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "502135954CFA4C09835BF140AFBFBFCD"
+       }],
+       "icon": "",
+       "id": "502135954CFA4C09835BF140AFBFBFCD",
+       "leaf": true,
+       "name": "资源配置",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_RESOURCE"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_FILE_CATALOG",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "3EE2D8E9A1034EF79599E39CFD523C5E",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "6729D75FFCF943BF8ACE97F946F233E9"
+       }],
+       "icon": "",
+       "id": "6729D75FFCF943BF8ACE97F946F233E9",
+       "leaf": true,
+       "name": "元数据资源",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_FILE_CATALOG"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_META_TABLE",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "0BD57851415E4BC6A3C100330E781AB3",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "2C2A36EE2A654950B1F2235AC499AD1F"
+       }],
+       "icon": "",
+       "id": "2C2A36EE2A654950B1F2235AC499AD1F",
+       "leaf": true,
+       "name": "元数据表",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_META_TABLE"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_FUNCTION",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "A31E51B74119494CAC9D09CD9D31B7C0",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "34E6ABCA30C342D5944B4A952FF836F3"
+       }],
+       "icon": "",
+       "id": "34E6ABCA30C342D5944B4A952FF836F3",
+       "leaf": true,
+       "name": "功能管理",
+       "pid": "7190623015ED4F57B601285CD929B7A9",
+       "url": "template.html?resource_name=T_BASE_FUNCTION"
+      }
+     ],
+     "code": "SYS_YUANW_JICPZ",
+     "find": true,
+     "icon": "sidebar-dlss",
+     "id": "7190623015ED4F57B601285CD929B7A9",
+     "leaf": false,
+     "name": "基础配置",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "T_BASE_USER",
+       "find": true,
+       "functions":        [
+                {
+         "children": [],
+         "code": "LOAD_DEFAULT",
+         "find": false,
+         "icon": "",
+         "id": "C5903099067C412F83566673B7FBC433",
+         "leaf": false,
+         "name": "默认资源模板",
+         "pid": "717CAF0D303443ACB3FD5163862FCA74"
+        },
+                {
+         "children": [],
+         "code": "ADD",
+         "find": false,
+         "icon": "",
+         "id": "DBC25DA142F14E78A6B11B2A6A3F8808",
+         "leaf": false,
+         "name": "添加",
+         "pid": "717CAF0D303443ACB3FD5163862FCA74"
+        }
+       ],
+       "icon": "",
+       "id": "717CAF0D303443ACB3FD5163862FCA74",
+       "leaf": true,
+       "name": "用户管理",
+       "pid": "8C1C4F9D5B744C21B46D84C7347D5CB7",
+       "url": "template.html?resource_name=T_BASE_USER"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_ROLE",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "BBB08C7267F14D21A070336BCD790AE4",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "64E2C3D31B254098BD53E168E15E4943"
+       }],
+       "icon": "",
+       "id": "64E2C3D31B254098BD53E168E15E4943",
+       "leaf": true,
+       "name": "角色管理",
+       "pid": "8C1C4F9D5B744C21B46D84C7347D5CB7",
+       "url": "template.html?resource_name=T_BASE_ROLE"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_ROLE",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "31A75F0202074805A97F9B192F178EC5",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "D5EDC2C32C3C4EBE9CCD15528277CD46"
+       }],
+       "icon": "",
+       "id": "D5EDC2C32C3C4EBE9CCD15528277CD46",
+       "leaf": true,
+       "name": "系统授权",
+       "pid": "8C1C4F9D5B744C21B46D84C7347D5CB7",
+       "url": "template.html?template_name=T_BASE_AUTHORIZATION@resource_name=T_BASE_ROLE"
+      },
+            {
+       "children": [],
+       "code": "T_BASE_ORG",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "70349FA98E19477FA4D0300365DDDE4C",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "5F635EC0CF064DB28501EF58E0CF2279"
+       }],
+       "icon": "",
+       "id": "5F635EC0CF064DB28501EF58E0CF2279",
+       "leaf": true,
+       "name": "机构管理",
+       "pid": "8C1C4F9D5B744C21B46D84C7347D5CB7",
+       "url": "template.html?resource_name=T_BASE_ORG"
+      }
+     ],
+     "code": "SYS_YUANW_QUANXPZ",
+     "find": true,
+     "icon": "sidebar-ljfx",
+     "id": "8C1C4F9D5B744C21B46D84C7347D5CB7",
+     "leaf": false,
+     "name": "权限配置",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_MAP",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "846BC6287B6D4B7381F680B457CDBAF4",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "C91FF6ED57394A128B6AE7BA9BD8E7CD"
+       }],
+       "icon": "",
+       "id": "C91FF6ED57394A128B6AE7BA9BD8E7CD",
+       "leaf": true,
+       "name": "地图服务配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_MAP"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_CONTROL",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "57AADA58B4C744ECB74C28A490DF686E",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "2ABB2747519842DDAFAB3D6CC9BFD1CC"
+       }],
+       "icon": "",
+       "id": "2ABB2747519842DDAFAB3D6CC9BFD1CC",
+       "leaf": true,
+       "name": "地图控件配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_CONTROL"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_TOOL",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "82F5F306E7E241F4BAFD5C24D054CF9F",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "F933DAB042EA4A82AED1F1B1F0C90A68"
+       }],
+       "icon": "",
+       "id": "F933DAB042EA4A82AED1F1B1F0C90A68",
+       "leaf": true,
+       "name": "地图工具配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_TOOL"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_WIDGET",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "4C8FEC0B6CF34887BE013851B11C6119",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "482A57991084464291BE71FD84DB06DD"
+       }],
+       "icon": "",
+       "id": "482A57991084464291BE71FD84DB06DD",
+       "leaf": true,
+       "name": "地图插件配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_WIDGET"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_LAYER",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "8E4EE2F020374208B741D594090617B5",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "0B025B339C924C679618B1260BFEA7EC"
+       }],
+       "icon": "",
+       "id": "0B025B339C924C679618B1260BFEA7EC",
+       "leaf": true,
+       "name": "图层资源配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_LAYER"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_LAYER_CATALOG",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "086295F4D2764F9393511972E8B5748C",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "201B12F3DB9B4DD88140BEDBA0F24710"
+       }],
+       "icon": "",
+       "id": "201B12F3DB9B4DD88140BEDBA0F24710",
+       "leaf": true,
+       "name": "图层目录管理",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_LAYER_CATALOG"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_YINGYPZ",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "1798C7F8E5474362A56EC52C293F0718",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "107801688CF14FDD94F3A09C760F213A"
+       }],
+       "icon": "",
+       "id": "107801688CF14FDD94F3A09C760F213A",
+       "leaf": true,
+       "name": "应用系统配置",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_YINGYPZ"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_DISTRICT",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "007FF4DD9D0B4C9E9A9845C7629381A0",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "89DACB97CBB8481D859DB147C6641119"
+       }],
+       "icon": "",
+       "id": "89DACB97CBB8481D859DB147C6641119",
+       "leaf": true,
+       "name": "行政区划管理",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_DISTRICT"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_DATA_SYNC",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "3BD8594716BE44B29E3A7FD26E02B0BF",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "13BA19166EA746C4BF7FF2480A2ADEBB"
+       }],
+       "icon": "",
+       "id": "13BA19166EA746C4BF7FF2480A2ADEBB",
+       "leaf": true,
+       "name": "数据同步",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_DATA_SYNC"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_GIS_LAYER_INDEX",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "A71FBB76FF2D481E890D4DF8BFDB8446",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "7C395233BCC04A78AC421876AAC551C9"
+       }],
+       "icon": "",
+       "id": "7C395233BCC04A78AC421876AAC551C9",
+       "leaf": true,
+       "name": "图层索引",
+       "pid": "DE09FC15A70249A3AE3018BF6930B6FB",
+       "url": "template.html?resource_name=T_PLATFORM_GIS_LAYER_INDEX"
+      }
+     ],
+     "code": "SYS_YUANW_PINGTGISPZ",
+     "find": true,
+     "icon": "sidebar-kjcx",
+     "id": "DE09FC15A70249A3AE3018BF6930B6FB",
+     "leaf": false,
+     "name": "平台GIS配置",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "T_PLATFORM_ZIY_STATS",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "124005B40385434C9270C3C4C2AA5D7D",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "3555B17DA57B461BB0764340D954DB3C"
+       }],
+       "icon": "",
+       "id": "3555B17DA57B461BB0764340D954DB3C",
+       "leaf": true,
+       "name": "资源汇总",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_ZIY_STATS"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_FUWSQYY",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "A630DA8EB4F04EC599E68AACB0FF1840",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "3476BEC93A4F46C08971F4786A36CBBA"
+       }],
+       "icon": "",
+       "id": "3476BEC93A4F46C08971F4786A36CBBA",
+       "leaf": true,
+       "name": "应用管理",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_FUWSQYY"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_BIAOZGF",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "40AF262DD4AE477E8DE7534B6CF4823D",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "227097E291C44F2A93FE6FC83187D3C3"
+       }],
+       "icon": "",
+       "id": "227097E291C44F2A93FE6FC83187D3C3",
+       "leaf": true,
+       "name": "规范资料",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_BIAOZGF"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_KAIFZL",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "383D365D19E740BCAAB2957275EA840C",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "4454C487C5CB4107B0503E8F7D185C5D"
+       }],
+       "icon": "",
+       "id": "4454C487C5CB4107B0503E8F7D185C5D",
+       "leaf": true,
+       "name": "开发资料",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_KAIFZL"
+      },
+            {
+       "children": [],
+       "code": "MENHGL_XINWZXGL",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "0B5A0924F4DD47058F09413D7B4DC37F",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "1E47A64CD2514949BABD1DF9F7086724"
+       }],
+       "icon": "",
+       "id": "1E47A64CD2514949BABD1DF9F7086724",
+       "leaf": true,
+       "name": "新闻中心管理",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "jsjtgis-admin/news.jsp"
+      },
+            {
+       "children": [],
+       "code": "MENHGL-FUWFWTJ",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "F68CB560C22A48C4B265ACE232A0EFAB",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "26A59B045039476ABBC65C10D6DFB8F5"
+       }],
+       "icon": "",
+       "id": "26A59B045039476ABBC65C10D6DFB8F5",
+       "leaf": true,
+       "name": "服务访问统计",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "jsjtgis-admin/fuwfwtj.jsp"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_STATS_IDX_CATEGORY",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "DE2CA9FA45664C4BB90D0AA99700E136",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "3FF2FE9D6CD5493F803995ADA96B7D99"
+       }],
+       "icon": "",
+       "id": "3FF2FE9D6CD5493F803995ADA96B7D99",
+       "leaf": true,
+       "name": "指标类别",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_STATS_IDX_CATEGORY"
+      },
+            {
+       "children": [],
+       "code": "服务资源",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "B0D6AC787EDE4F4695D13BC0458C1915",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "51FFF144083642C1A01FE83C1FB9CFAC"
+       }],
+       "icon": "",
+       "id": "51FFF144083642C1A01FE83C1FB9CFAC",
+       "leaf": true,
+       "name": "服务资源",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "http://localhost:8090/pages/resCenter.html"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_TONGYML",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "F8EF687F52014495A328D8997184AE24",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "BC79638D94794BCC9376580968CE7C00"
+       }],
+       "icon": "",
+       "id": "BC79638D94794BCC9376580968CE7C00",
+       "leaf": true,
+       "name": "平台通用目录",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_TONGYML"
+      },
+            {
+       "children": [],
+       "code": "T_PLATFORM_SHIFYY",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "4C46BCAAF5F6453FB0BCE461BAC714EF",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "8AEAF17C998D4B43B8610E2274D4771F"
+       }],
+       "icon": "",
+       "id": "8AEAF17C998D4B43B8610E2274D4771F",
+       "leaf": true,
+       "name": "示范成果",
+       "pid": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+       "url": "template.html?resource_name=T_PLATFORM_SHIFYY"
+      }
+     ],
+     "code": "SYS_YUANW_PINGTZYPZ",
+     "find": true,
+     "icon": "sidebar-ztdt",
+     "id": "CFEF9478A0974BDF9F27EA1CFE4969E3",
+     "leaf": false,
+     "name": "平台资源配置",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "YUNWGL",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "C2EE804CBEBB412EA0BD3733838D4D02",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "51914BF6AADD4DD89FDF40B601D42617"
+       }],
+       "icon": "",
+       "id": "51914BF6AADD4DD89FDF40B601D42617",
+       "leaf": true,
+       "name": "运维管理",
+       "pid": "151CDBE06A3B49C1ACECDCD7881623EA",
+       "url": ""
+      },
+            {
+       "children": [],
+       "code": "云管理服务",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "7AAD4A41DE9D4319B8583435634EC83C",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "8AA0DE8F8B3F4D89892E741799AE6560"
+       }],
+       "icon": "",
+       "id": "8AA0DE8F8B3F4D89892E741799AE6560",
+       "leaf": true,
+       "name": "云管理服务",
+       "pid": "151CDBE06A3B49C1ACECDCD7881623EA",
+       "url": ""
+      }
+     ],
+     "code": "MANAGE_SYSTEM",
+     "find": true,
+     "icon": "",
+     "id": "151CDBE06A3B49C1ACECDCD7881623EA",
+     "leaf": false,
+     "name": "授权管理系统",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children": [     {
+      "children": [],
+      "code": "T_BASE_SYS_LOG",
+      "find": true,
+      "functions": [      {
+       "children": [],
+       "code": "LOAD_DEFAULT",
+       "find": false,
+       "icon": "",
+       "id": "C58428173E6D4D49919FD56326E38DAA",
+       "leaf": false,
+       "name": "默认资源模板",
+       "pid": "36187DA86D7149DB8093DD713822CB6C"
+      }],
+      "icon": "",
+      "id": "36187DA86D7149DB8093DD713822CB6C",
+      "leaf": true,
+      "name": "系统日志",
+      "pid": "CEAF98135BC141B0A8FFFFD578B6D889",
+      "url": "template.html?resource_name=T_BASE_SYS_LOG"
+     }],
+     "code": "SYS_YUANW_LOG",
+     "find": true,
+     "icon": "",
+     "id": "CEAF98135BC141B0A8FFFFD578B6D889",
+     "leaf": false,
+     "name": "系统日志",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    },
+        {
+     "children":      [
+            {
+       "children": [],
+       "code": "GIS_META_YUANMLFUWZYXX",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "9DFF05F576DD45D98E9FE0CF093B6D40",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "D12E594D02A7488EBF140CAE88349EC8"
+       }],
+       "icon": "",
+       "id": "D12E594D02A7488EBF140CAE88349EC8",
+       "leaf": true,
+       "name": "服务资源分类",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_YUANMLFUWZYXX"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_YUANML",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "F346E4B4EB9B4FB083F848D0B1770062",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "6A6C4611D6CB4FBFB6E6926D4E86017E"
+       }],
+       "icon": "",
+       "id": "6A6C4611D6CB4FBFB6E6926D4E86017E",
+       "leaf": true,
+       "name": "元目录管理",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_YUANML"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_YUANMLSHUJZYXX",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "303090099A8F49A6BB7898FD0AADEC50",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "FE040FD43D6B4864B8B0DB3143FC3FCE"
+       }],
+       "icon": "",
+       "id": "FE040FD43D6B4864B8B0DB3143FC3FCE",
+       "leaf": true,
+       "name": "元数据集分类",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_YUANMLSHUJZYXX"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_SHUJBB",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "BF4DE3622C2B413DA4C9ED8820E52EFE",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "D51F28CFDC0742C6B3F4A324081D8C7C"
+       }],
+       "icon": "",
+       "id": "D51F28CFDC0742C6B3F4A324081D8C7C",
+       "leaf": true,
+       "name": "数据版本配置",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_SHUJBB"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_YUANSJJ",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "42378B0119304649807D3C1D20376799",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "2C293615831840C8AB8D2862F4C79AF2"
+       }],
+       "icon": "",
+       "id": "2C293615831840C8AB8D2862F4C79AF2",
+       "leaf": true,
+       "name": "元数据集",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_YUANSJJ"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_SHUJZYXX",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "EC032ABA3CDB49468F728F3AA22ED047",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "F7C85C44F98F442B88E5CAF9A77B85CD"
+       }],
+       "icon": "",
+       "id": "F7C85C44F98F442B88E5CAF9A77B85CD",
+       "leaf": true,
+       "name": "数据资源信息",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_SHUJZYXX"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_YUANSJJ",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "BB49AC6555F94EC1ABB68F2F9D8BC84E",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "44BC4401D59341E2B9432C49D5E6D328"
+       }],
+       "icon": "",
+       "id": "44BC4401D59341E2B9432C49D5E6D328",
+       "leaf": true,
+       "name": "元数据项",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_YUANSJJYUANSJX"
+      },
+            {
+       "children": [],
+       "code": "GIS_META_FUWZYXX",
+       "find": true,
+       "functions": [       {
+        "children": [],
+        "code": "LOAD_DEFAULT",
+        "find": false,
+        "icon": "",
+        "id": "172FFCDCEB1E41D9922F4981976A697B",
+        "leaf": false,
+        "name": "默认资源模板",
+        "pid": "8AFA8A18B09048109D040E4C9FE760B7"
+       }],
+       "icon": "",
+       "id": "8AFA8A18B09048109D040E4C9FE760B7",
+       "leaf": true,
+       "name": "服务资源信息",
+       "pid": "848DBCF548C04400BB4EC302F1B3732C",
+       "url": "template.html?resource_name=GIS_META_FUWZYXX"
+      }
+     ],
+     "code": "GIS_META",
+     "find": true,
+     "icon": "",
+     "id": "848DBCF548C04400BB4EC302F1B3732C",
+     "leaf": false,
+     "name": "元数据管理",
+     "pid": "483B1C91EDF44DA1AFB125D62A864398"
+    }
+   ],
+   "code": "SYS_YUANW",
+   "find": true,
+   "icon": "",
+   "id": "483B1C91EDF44DA1AFB125D62A864398",
+   "leaf": false,
+   "name": "运维管理系统",
+   "pid": "0"
+  }
+ ],
+ "message": "获取权限!",
+ "ns_type": "",
+ "status": 1
+}

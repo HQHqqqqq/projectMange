@@ -1,0 +1,328 @@
+#app {
+  font-family: '微软雅黑', 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  background: #ecf0f5;
+  width: 100%;
+  min-height: 100%;
+  font-size: 12px !important;
+}
+
+
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+}
+
+.el-tabs--border-card>.el-tabs__header {
+  background: #b0b4b4;
+}
+
+.el-tabs--border-card>.el-tabs__header .el-tabs__item {
+  color: #000000;
+}
+
+.tac {
+  float: left;
+  height: 100%;
+  position: fixed;
+  top: 50px;
+  left: 0;
+  text-align: left;
+  z-index: 11;
+}
+
+.logoimg {
+  float: left;
+  margin-top: 10px;
+  position: fixed;
+  z-index: 100;
+  left: 45px;
+}
+
+.el-tabs__active-bar {
+  /* width: 25% !important; */
+}
+
+.el-tabs__nav {
+  margin-left: 2px;
+}
+
+
+.el-tabs__header,
+.el-tabs__nav-scroll {
+  height: 50px;
+  line-height: 50px;
+
+}
+
+.el-tabs__item {
+  height: 50px;
+  line-height: 50px;
+}
+
+.is-active {
+  border-bottom: none !important;
+}
+
+.el-tabs__header {
+  width: 100%;
+  z-index: 10;
+}
+
+.el-tabs--border-card {
+  border: none;
+  box-shadow: none;
+}
+
+.el-tabs__content {
+  width: 100%;
+  height: 100%;
+}
+
+.el-menu {
+  height: 100%;
+  position: relative;
+}
+
+.navLeft {
+  height: 100%;
+}
+
+a {
+  color: rgb(102, 102, 102);
+  text-decoration: none;
+}
+
+.el-menu-item * {
+  /* width: 100%;
+  height: 56px;
+  display: block; */
+}
+
+.active {
+  color: #409EFF !important;
+}
+
+.el-menu-item,
+.el-submenu__title {
+  height: 40px;
+  line-height: 40px;
+}
+
+.el-submenu .el-menu-item {
+  height: 40px;
+  line-height: 40px;
+}
+
+.el-menu-item * {
+  /* height: 40px; */
+}
+
+.el-menu-item-group__title {
+  padding: 0 0 0 20px;
+}
+
+.el-tabs--border-card {
+  height: 50px;
+}
+
+.headerInfo {
+  width: 20%;
+  height: 50px;
+  position: fixed;
+  right: -60px;
+  top: -20px;
+  /* background: lightblue; */
+  z-index: 1000;
+}
+
+.headerInfo .el-input {
+  float: left;
+  width: 50%;
+  margin-top: 5px;
+}
+
+.headerInfo i {
+  float: left;
+  margin-top: 15px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+
+
+.tac .el-icon-arrow-right {
+  display: none;
+}
+
+.el-icon-more {
+  position: absolute;
+  right: 0px;
+  /* top: 32%; */
+}
+
+.bg {
+  position: fixed;
+  opacity: .5;
+  background: #000;
+  height: 100%;
+  width: 100%;
+  z-index: 2000;
+  top: 0;
+  left: 0;
+}
+
+.el-message-box {
+  width: 400px;
+  /* height: 200px; */
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  z-index: 2000;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .1);
+  background: #fff;
+  transform: translate(-50%, -50%);
+}
+
+.contractMain {
+  float: right;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.el-icon-more {
+  position: relative;
+}
+
+.el-submenu {
+  position: relative;
+}
+
+.changeProject {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  right: -700px;
+  top: 100px;
+  z-index: 2001;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .1);
+  background: #fff;
+  transform: translate(-50%, -50%);
+}
+
+.boxHeader {
+  border-bottom: 1px solid #eee;
+}
+
+.boxTitle {
+  text-align: left;
+  font-size: 14px;
+}
+
+.contentBox {
+  text-align: left;
+}
+
+.contentBox div:first-child {
+  padding-left: 10px;
+}
+
+.el-popover div ul {
+  padding: 0;
+  margin: 0;
+}
+
+.el-popover ul li {
+  list-style: none;
+  text-align: center;
+  line-height: 25px;
+  margin-left: -25px;
+}
+
+.el-popover ul li:hover {
+  cursor: pointer;
+}
+
+.el-message-box__header {
+  padding: 15px 15px 10px;
+}
+
+.boxHeader {
+  padding: 5px 15px 10px;
+  text-align: center;
+}
+
+.projectName {
+  width: 110px;
+  word-break: keep-all;
+  display: inline-block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.el-form-item__label {
+  font-size: 12px;
+}
+
+.el-form-item__content {
+  line-height: 25px;
+}
+
+#loginName {
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+}
+
+
+
+
+/* 修改合计加固定左侧表格滚动条问题 cff 核算应用列表 */
+.edit .el-table--scrollable-y .el-table__body-wrapper {
+  z-index: 2 !important;
+}
+
+.edit .el-table__body-wrapper,
+.is-scrolling-middle {
+  z-index: 2 !important;
+}
+
+.el-dialog__header {
+  border-bottom: 1px solid #eee;
+  background-color: #F8F8F8;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.el-dialog--center .el-dialog__body {
+  text-align: initial;
+  padding: 20px 0;
+}
+
+.el-dialog__footer {
+  border-top: 1px solid #eee;
+  background-color: #F8F8F8;
+  padding: 12px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.el-dialog {
+  border: 4px solid rgba(0, 0, 0, .3);
+  border-radius: 10px;
+  width: 51%;
+}
+
+.el-form-item__error {
+  left: 180px;
+}
+
+/* .el-form-item {
+  margin-bottom: 10px
+} */
